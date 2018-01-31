@@ -1,0 +1,11 @@
+/Users/Wihlborg/Projects/RandomNamesForAPerson/RandomNamesForAPerson/bin/Debug/netcoreapp2.0/RandomNamesForAPerson.deps.json
+/Users/Wihlborg/Projects/RandomNamesForAPerson/RandomNamesForAPerson/bin/Debug/netcoreapp2.0/RandomNamesForAPerson.runtimeconfig.json
+/Users/Wihlborg/Projects/RandomNamesForAPerson/RandomNamesForAPerson/bin/Debug/netcoreapp2.0/RandomNamesForAPerson.runtimeconfig.dev.json
+/Users/Wihlborg/Projects/RandomNamesForAPerson/RandomNamesForAPerson/bin/Debug/netcoreapp2.0/RandomNamesForAPerson.dll
+/Users/Wihlborg/Projects/RandomNamesForAPerson/RandomNamesForAPerson/bin/Debug/netcoreapp2.0/RandomNamesForAPerson.pdb
+/Users/Wihlborg/Projects/RandomNamesForAPerson/RandomNamesForAPerson/obj/Debug/netcoreapp2.0/RandomNamesForAPerson.csprojResolveAssemblyReference.cache
+/Users/Wihlborg/Projects/RandomNamesForAPerson/RandomNamesForAPerson/obj/Debug/netcoreapp2.0/RandomNamesForAPerson.csproj.CoreCompileInputs.cache
+/Users/Wihlborg/Projects/RandomNamesForAPerson/RandomNamesForAPerson/obj/Debug/netcoreapp2.0/RandomNamesForAPerson.AssemblyInfoInputs.cache
+/Users/Wihlborg/Projects/RandomNamesForAPerson/RandomNamesForAPerson/obj/Debug/netcoreapp2.0/RandomNamesForAPerson.AssemblyInfo.cs
+/Users/Wihlborg/Projects/RandomNamesForAPerson/RandomNamesForAPerson/obj/Debug/netcoreapp2.0/RandomNamesForAPerson.dll
+/Users/Wihlborg/Projects/RandomNamesForAPerson/RandomNamesForAPerson/obj/Debug/netcoreapp2.0/RandomNamesForAPerson.pdb

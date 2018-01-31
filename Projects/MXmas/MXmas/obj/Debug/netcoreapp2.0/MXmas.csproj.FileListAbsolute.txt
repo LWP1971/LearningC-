@@ -1,0 +1,11 @@
+/Users/Wihlborg/Projects/MXmas/MXmas/obj/Debug/netcoreapp2.0/MXmas.csprojResolveAssemblyReference.cache
+/Users/Wihlborg/Projects/MXmas/MXmas/obj/Debug/netcoreapp2.0/MXmas.csproj.CoreCompileInputs.cache
+/Users/Wihlborg/Projects/MXmas/MXmas/obj/Debug/netcoreapp2.0/MXmas.AssemblyInfoInputs.cache
+/Users/Wihlborg/Projects/MXmas/MXmas/obj/Debug/netcoreapp2.0/MXmas.AssemblyInfo.cs
+/Users/Wihlborg/Projects/MXmas/MXmas/bin/Debug/netcoreapp2.0/MXmas.deps.json
+/Users/Wihlborg/Projects/MXmas/MXmas/bin/Debug/netcoreapp2.0/MXmas.runtimeconfig.json
+/Users/Wihlborg/Projects/MXmas/MXmas/bin/Debug/netcoreapp2.0/MXmas.runtimeconfig.dev.json
+/Users/Wihlborg/Projects/MXmas/MXmas/bin/Debug/netcoreapp2.0/MXmas.dll
+/Users/Wihlborg/Projects/MXmas/MXmas/bin/Debug/netcoreapp2.0/MXmas.pdb
+/Users/Wihlborg/Projects/MXmas/MXmas/obj/Debug/netcoreapp2.0/MXmas.dll
+/Users/Wihlborg/Projects/MXmas/MXmas/obj/Debug/netcoreapp2.0/MXmas.pdb

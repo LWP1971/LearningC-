@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{4FE7A40B-90F2-422C-B9FD-A3674DDC3A44}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MethodExperimentsApplication/Program.cs">
+    <Files>
+      <File FileName="MethodExperimentsApplication/Program.cs" Line="4" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MethodExperimentsApplication PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

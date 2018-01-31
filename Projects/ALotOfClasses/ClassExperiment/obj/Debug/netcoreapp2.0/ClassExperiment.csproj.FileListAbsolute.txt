@@ -1,0 +1,11 @@
+/Users/Wihlborg/Projects/ALotOfClasses/ClassExperiment/bin/Debug/netcoreapp2.0/ClassExperiment.deps.json
+/Users/Wihlborg/Projects/ALotOfClasses/ClassExperiment/bin/Debug/netcoreapp2.0/ClassExperiment.runtimeconfig.json
+/Users/Wihlborg/Projects/ALotOfClasses/ClassExperiment/bin/Debug/netcoreapp2.0/ClassExperiment.runtimeconfig.dev.json
+/Users/Wihlborg/Projects/ALotOfClasses/ClassExperiment/bin/Debug/netcoreapp2.0/ClassExperiment.dll
+/Users/Wihlborg/Projects/ALotOfClasses/ClassExperiment/bin/Debug/netcoreapp2.0/ClassExperiment.pdb
+/Users/Wihlborg/Projects/ALotOfClasses/ClassExperiment/obj/Debug/netcoreapp2.0/ClassExperiment.csprojResolveAssemblyReference.cache
+/Users/Wihlborg/Projects/ALotOfClasses/ClassExperiment/obj/Debug/netcoreapp2.0/ClassExperiment.csproj.CoreCompileInputs.cache
+/Users/Wihlborg/Projects/ALotOfClasses/ClassExperiment/obj/Debug/netcoreapp2.0/ClassExperiment.AssemblyInfoInputs.cache
+/Users/Wihlborg/Projects/ALotOfClasses/ClassExperiment/obj/Debug/netcoreapp2.0/ClassExperiment.AssemblyInfo.cs
+/Users/Wihlborg/Projects/ALotOfClasses/ClassExperiment/obj/Debug/netcoreapp2.0/ClassExperiment.dll
+/Users/Wihlborg/Projects/ALotOfClasses/ClassExperiment/obj/Debug/netcoreapp2.0/ClassExperiment.pdb

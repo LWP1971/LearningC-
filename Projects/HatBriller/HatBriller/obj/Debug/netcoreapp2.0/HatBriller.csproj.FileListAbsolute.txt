@@ -1,0 +1,11 @@
+/Users/Wihlborg/Projects/HatBriller/HatBriller/bin/Debug/netcoreapp2.0/HatBriller.deps.json
+/Users/Wihlborg/Projects/HatBriller/HatBriller/bin/Debug/netcoreapp2.0/HatBriller.runtimeconfig.json
+/Users/Wihlborg/Projects/HatBriller/HatBriller/bin/Debug/netcoreapp2.0/HatBriller.runtimeconfig.dev.json
+/Users/Wihlborg/Projects/HatBriller/HatBriller/bin/Debug/netcoreapp2.0/HatBriller.dll
+/Users/Wihlborg/Projects/HatBriller/HatBriller/bin/Debug/netcoreapp2.0/HatBriller.pdb
+/Users/Wihlborg/Projects/HatBriller/HatBriller/obj/Debug/netcoreapp2.0/HatBriller.csprojResolveAssemblyReference.cache
+/Users/Wihlborg/Projects/HatBriller/HatBriller/obj/Debug/netcoreapp2.0/HatBriller.csproj.CoreCompileInputs.cache
+/Users/Wihlborg/Projects/HatBriller/HatBriller/obj/Debug/netcoreapp2.0/HatBriller.AssemblyInfoInputs.cache
+/Users/Wihlborg/Projects/HatBriller/HatBriller/obj/Debug/netcoreapp2.0/HatBriller.AssemblyInfo.cs
+/Users/Wihlborg/Projects/HatBriller/HatBriller/obj/Debug/netcoreapp2.0/HatBriller.dll
+/Users/Wihlborg/Projects/HatBriller/HatBriller/obj/Debug/netcoreapp2.0/HatBriller.pdb

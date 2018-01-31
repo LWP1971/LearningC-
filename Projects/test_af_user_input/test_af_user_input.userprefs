@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{11A4D9CB-AAF6-4CE5-91D3-9DB9DBCCAE3E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Desktop/Program.cs">
+    <Files>
+      <File FileName="test_af_user_input/Program.cs" Line="9" Column="12" />
+      <File FileName="../../Desktop/Program.cs" Line="116" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.test__af__user__input PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

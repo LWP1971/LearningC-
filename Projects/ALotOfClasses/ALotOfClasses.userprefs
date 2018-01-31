@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{F66E5794-BF6F-4B07-A459-968FC0D67955}|Default">
+  <MonoDevelop.Ide.ItemProperties.ClassExperiment PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassExperiment/Program.cs">
+    <Files>
+      <File FileName="ClassExperiment/Program.cs" Line="11" Column="52" />
+      <File FileName="ClassExperiment/Box.cs" Line="25" Column="10" />
+      <File FileName="ClassExperiment/Presentation.cs" Line="4" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

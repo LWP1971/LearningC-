@@ -1,0 +1,11 @@
+/Users/Wihlborg/Projects/Exercises_week_3/Exercises_week_3/obj/Debug/netcoreapp2.0/Exercises_week_3.csprojResolveAssemblyReference.cache
+/Users/Wihlborg/Projects/Exercises_week_3/Exercises_week_3/obj/Debug/netcoreapp2.0/Exercises_week_3.csproj.CoreCompileInputs.cache
+/Users/Wihlborg/Projects/Exercises_week_3/Exercises_week_3/obj/Debug/netcoreapp2.0/Exercises_week_3.AssemblyInfoInputs.cache
+/Users/Wihlborg/Projects/Exercises_week_3/Exercises_week_3/obj/Debug/netcoreapp2.0/Exercises_week_3.AssemblyInfo.cs
+/Users/Wihlborg/Projects/Exercises_week_3/Exercises_week_3/bin/Debug/netcoreapp2.0/Exercises_week_3.deps.json
+/Users/Wihlborg/Projects/Exercises_week_3/Exercises_week_3/bin/Debug/netcoreapp2.0/Exercises_week_3.runtimeconfig.json
+/Users/Wihlborg/Projects/Exercises_week_3/Exercises_week_3/bin/Debug/netcoreapp2.0/Exercises_week_3.runtimeconfig.dev.json
+/Users/Wihlborg/Projects/Exercises_week_3/Exercises_week_3/bin/Debug/netcoreapp2.0/Exercises_week_3.dll
+/Users/Wihlborg/Projects/Exercises_week_3/Exercises_week_3/bin/Debug/netcoreapp2.0/Exercises_week_3.pdb
+/Users/Wihlborg/Projects/Exercises_week_3/Exercises_week_3/obj/Debug/netcoreapp2.0/Exercises_week_3.dll
+/Users/Wihlborg/Projects/Exercises_week_3/Exercises_week_3/obj/Debug/netcoreapp2.0/Exercises_week_3.pdb
