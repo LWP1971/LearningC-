@@ -1,6 +1,6 @@
 ﻿<Properties StartupConfiguration="{F66E5794-BF6F-4B07-A459-968FC0D67955}|Default">
   <MonoDevelop.Ide.ItemProperties.ClassExperiment PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ClassExperiment/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassExperiment/Box.cs">
     <Files>
       <File FileName="ClassExperiment/Program.cs" Line="11" Column="52" />
       <File FileName="ClassExperiment/Box.cs" Line="25" Column="10" />

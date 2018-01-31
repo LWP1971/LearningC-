@@ -2279,11 +2279,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Wihlborg/Projects/ALotOfClasses/ClassExperiment/ClassExperiment.csproj",
+      "projectUniqueName": "/Users/Wihlborg/Documents/GitHub/LearningC-/Projects/ALotOfClasses/ClassExperiment/ClassExperiment.csproj",
       "projectName": "ClassExperiment",
-      "projectPath": "/Users/Wihlborg/Projects/ALotOfClasses/ClassExperiment/ClassExperiment.csproj",
+      "projectPath": "/Users/Wihlborg/Documents/GitHub/LearningC-/Projects/ALotOfClasses/ClassExperiment/ClassExperiment.csproj",
       "packagesPath": "/Users/Wihlborg/.nuget/packages/",
-      "outputPath": "/Users/Wihlborg/Projects/ALotOfClasses/ClassExperiment/obj",
+      "outputPath": "/Users/Wihlborg/Documents/GitHub/LearningC-/Projects/ALotOfClasses/ClassExperiment/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
