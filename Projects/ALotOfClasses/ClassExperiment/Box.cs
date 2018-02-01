@@ -1,33 +1,65 @@
 ﻿using System;
+using System.Collections.Generic;
 namespace ClassExperiment
 {
     public class Box
     {
-        public int Height { get; set; }
-        public int Width { get; set; }
-        public int Depth { get; set; }
 
-        public string Color = "Red";
-
-        public Random measures = new Random();
-
-        public void GenerateBox()
+        //Variables
+        public List<int> measureList = new List<int>();
+        public List<string> measureNames = new List<string>()
         {
-            int boxHeight = measures.Next(1, 10);
-            Height = (boxHeight);
-            int boxWidth = measures.Next(1, 10);
-            Width = (boxWidth);
-            int boxDepth = measures.Next(1, 10);
-            Depth = (boxDepth);
+            "height",
+            "width",
+            "depth",
+            "volume"
+        };
 
-            int volume = Height * Width * Depth;
+        public Random boxRandomMeasures = new Random();
 
-         
+
+
+        //Executables
+
+        public List<int> GenerateBoxMeasures()
+        {
+            while (measureList.Count <= 2)
+            {
+                int boxMeasure = boxRandomMeasures.Next(1, 10);
+                measureList.Add(boxMeasure);
+            }
+            return measureList;
 
         }
 
+
+
+        public int GenerateBoxVolume(List<int> measureList)
+        {
+            int boxVolume = (measureList[0] * measureList[1] * measureList[2]);
+            return boxVolume;
+        }
+
+
+
+        public string InsertMeasureNames(List<string> measureNames)
+        {
+            int counter = 0;
+
+            while (counter <= measureNames.Count)
+            {
+                foreach (string measurename in measureNames)
+                {
+                    return measurename;
+                }
+                counter += 1;
+
+            }
+            return "";
+        }
     }
 }
+
 
 
 

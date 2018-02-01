@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace ClassExperiment
 {
@@ -6,13 +7,15 @@ namespace ClassExperiment
     {
         static void Main(string[] args)
         {
-
             var box = new Box();
             var presentTheBox = new Presentation();       
 
-            box.GenerateBox();
-            presentTheBox.PresentTheBox();
+            var measureList = box.GenerateBoxMeasures();
+            var volume = box.GenerateBoxVolume(measureList);
+            //var measureNames = box.InsertMeasureNames();
 
+            presentTheBox.PresentTheBoxMeasures(measureList);
+            presentTheBox.PresentTheBoxVolume(volume);
         }
     }
 }
