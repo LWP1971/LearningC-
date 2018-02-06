@@ -12,10 +12,11 @@ namespace ClassExperiment
 
             var measureList = box.GenerateBoxMeasures();
             var volume = box.GenerateBoxVolume(measureList);
-            //var measureNames = box.InsertMeasureNames();
+            var measureNames = box.InsertMeasureNames();
 
             presentTheBox.PresentTheBoxMeasures(measureList);
             presentTheBox.PresentTheBoxVolume(volume);
+            Console.ReadKey();
         }
     }
 }

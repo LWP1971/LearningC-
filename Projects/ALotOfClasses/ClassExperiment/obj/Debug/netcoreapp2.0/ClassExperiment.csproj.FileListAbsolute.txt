@@ -20,3 +20,14 @@
 /Users/Wihlborg/Documents/GitHub/LearningC-/Projects/ALotOfClasses/ClassExperiment/obj/Debug/netcoreapp2.0/ClassExperiment.AssemblyInfo.cs
 /Users/Wihlborg/Documents/GitHub/LearningC-/Projects/ALotOfClasses/ClassExperiment/obj/Debug/netcoreapp2.0/ClassExperiment.dll
 /Users/Wihlborg/Documents/GitHub/LearningC-/Projects/ALotOfClasses/ClassExperiment/obj/Debug/netcoreapp2.0/ClassExperiment.pdb
+C:\Users\lwp.WICHA.002\Documents\GitHub\LearningC-\Projects\ALotOfClasses\ClassExperiment\bin\Debug\netcoreapp2.0\ClassExperiment.deps.json
+C:\Users\lwp.WICHA.002\Documents\GitHub\LearningC-\Projects\ALotOfClasses\ClassExperiment\bin\Debug\netcoreapp2.0\ClassExperiment.runtimeconfig.json
+C:\Users\lwp.WICHA.002\Documents\GitHub\LearningC-\Projects\ALotOfClasses\ClassExperiment\bin\Debug\netcoreapp2.0\ClassExperiment.runtimeconfig.dev.json
+C:\Users\lwp.WICHA.002\Documents\GitHub\LearningC-\Projects\ALotOfClasses\ClassExperiment\bin\Debug\netcoreapp2.0\ClassExperiment.dll
+C:\Users\lwp.WICHA.002\Documents\GitHub\LearningC-\Projects\ALotOfClasses\ClassExperiment\bin\Debug\netcoreapp2.0\ClassExperiment.pdb
+C:\Users\lwp.WICHA.002\Documents\GitHub\LearningC-\Projects\ALotOfClasses\ClassExperiment\obj\Debug\netcoreapp2.0\ClassExperiment.csprojResolveAssemblyReference.cache
+C:\Users\lwp.WICHA.002\Documents\GitHub\LearningC-\Projects\ALotOfClasses\ClassExperiment\obj\Debug\netcoreapp2.0\ClassExperiment.csproj.CoreCompileInputs.cache
+C:\Users\lwp.WICHA.002\Documents\GitHub\LearningC-\Projects\ALotOfClasses\ClassExperiment\obj\Debug\netcoreapp2.0\ClassExperiment.AssemblyInfoInputs.cache
+C:\Users\lwp.WICHA.002\Documents\GitHub\LearningC-\Projects\ALotOfClasses\ClassExperiment\obj\Debug\netcoreapp2.0\ClassExperiment.AssemblyInfo.cs
+C:\Users\lwp.WICHA.002\Documents\GitHub\LearningC-\Projects\ALotOfClasses\ClassExperiment\obj\Debug\netcoreapp2.0\ClassExperiment.dll
+C:\Users\lwp.WICHA.002\Documents\GitHub\LearningC-\Projects\ALotOfClasses\ClassExperiment\obj\Debug\netcoreapp2.0\ClassExperiment.pdb

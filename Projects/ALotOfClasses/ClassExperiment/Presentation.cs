@@ -11,7 +11,7 @@ namespace ClassExperiment
         {
             Console.WriteLine("This program is now going to generate 3 random-length sides which form a box, and provide you with its volume.");
             BlankLine();
-            Console.WriteLine("Do press any key in order to release the unbearable suspense of waiting for the random box measures!");
+            Console.WriteLine("Press any key in order to reveal the random box and its measuresmeasures!");
             Console.ReadKey();
             Console.Clear();
            

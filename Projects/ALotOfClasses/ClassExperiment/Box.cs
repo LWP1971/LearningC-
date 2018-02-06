@@ -4,7 +4,7 @@ namespace ClassExperiment
 {
     public class Box
     {
-
+        //public List<Measurenames> Measures { get; set; }
         //Variables
         public List<int> measureList = new List<int>();
         public List<string> measureNames = new List<string>()
@@ -16,7 +16,6 @@ namespace ClassExperiment
         };
 
         public Random boxRandomMeasures = new Random();
-
 
 
         //Executables
@@ -31,7 +30,6 @@ namespace ClassExperiment
             return measureList;
 
         }
-
 
 
         public int GenerateBoxVolume(List<int> measureList)
