@@ -1,0 +1,11 @@
+/Users/Wihlborg/Documents/GitHub/LearningC-/Projects/TestOfArrays/TestOfArrays/bin/Debug/netcoreapp2.0/TestOfArrays.deps.json
+/Users/Wihlborg/Documents/GitHub/LearningC-/Projects/TestOfArrays/TestOfArrays/bin/Debug/netcoreapp2.0/TestOfArrays.runtimeconfig.json
+/Users/Wihlborg/Documents/GitHub/LearningC-/Projects/TestOfArrays/TestOfArrays/bin/Debug/netcoreapp2.0/TestOfArrays.runtimeconfig.dev.json
+/Users/Wihlborg/Documents/GitHub/LearningC-/Projects/TestOfArrays/TestOfArrays/bin/Debug/netcoreapp2.0/TestOfArrays.dll
+/Users/Wihlborg/Documents/GitHub/LearningC-/Projects/TestOfArrays/TestOfArrays/bin/Debug/netcoreapp2.0/TestOfArrays.pdb
+/Users/Wihlborg/Documents/GitHub/LearningC-/Projects/TestOfArrays/TestOfArrays/obj/Debug/netcoreapp2.0/TestOfArrays.csprojResolveAssemblyReference.cache
+/Users/Wihlborg/Documents/GitHub/LearningC-/Projects/TestOfArrays/TestOfArrays/obj/Debug/netcoreapp2.0/TestOfArrays.csproj.CoreCompileInputs.cache
+/Users/Wihlborg/Documents/GitHub/LearningC-/Projects/TestOfArrays/TestOfArrays/obj/Debug/netcoreapp2.0/TestOfArrays.AssemblyInfoInputs.cache
+/Users/Wihlborg/Documents/GitHub/LearningC-/Projects/TestOfArrays/TestOfArrays/obj/Debug/netcoreapp2.0/TestOfArrays.AssemblyInfo.cs
+/Users/Wihlborg/Documents/GitHub/LearningC-/Projects/TestOfArrays/TestOfArrays/obj/Debug/netcoreapp2.0/TestOfArrays.dll
+/Users/Wihlborg/Documents/GitHub/LearningC-/Projects/TestOfArrays/TestOfArrays/obj/Debug/netcoreapp2.0/TestOfArrays.pdb

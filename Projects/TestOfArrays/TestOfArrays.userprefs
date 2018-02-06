@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{929C37BD-C524-4EF2-88ED-827F13B69D5C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestOfArrays/Arrays.cs">
+    <Files>
+      <File FileName="TestOfArrays/Program.cs" Line="1" Column="1" />
+      <File FileName="TestOfArrays/Arrays.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TestOfArrays PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
