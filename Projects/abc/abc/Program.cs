@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace MerryChristmas
@@ -24,10 +25,10 @@ namespace MerryChristmas
 
                 List <string> tisTheSeasonToBeJolly = new List<string>();
 
-                tisTheSeasonToBeJolly.add(laugh);
-                tisTheSeasonToBeJolly.add(hyphen);
-                tisTheSeasonToBeJolly.add(greeting);
-                tisTheSeasonToBeJolly.add(exclamation);
+                tisTheSeasonToBeJolly.Add(laugh);
+                tisTheSeasonToBeJolly.Add(hyphen);
+                tisTheSeasonToBeJolly.Add(greeting);
+                tisTheSeasonToBeJolly.Add(exclamation);
 
                 tisTheSeasonToBeJolly.ToArray();
 

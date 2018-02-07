@@ -1,15 +1,15 @@
 ﻿<Properties StartupConfiguration="{929C37BD-C524-4EF2-88ED-827F13B69D5C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TestOfArrays/PlayingCard.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestOfArrays/DeckOfCards.cs">
     <Files>
-      <File FileName="TestOfArrays/Program.cs" Line="13" Column="37" />
-      <File FileName="TestOfArrays/PlayingCard.cs" Line="42" Column="13" />
-      <File FileName="TestOfArrays/DeckOfCards.cs" Line="1" Column="1" />
+      <File FileName="TestOfArrays/Program.cs" Line="17" Column="1" />
+      <File FileName="TestOfArrays/PlayingCard.cs" Line="48" Column="1" />
+      <File FileName="TestOfArrays/DeckOfCards.cs" Line="12" Column="9" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/Wihlborg/Documents/GitHub/LearningC-/Projects/TestOfArrays/TestOfArrays/Program.cs" relfile="TestOfArrays/Program.cs" line="12" column="1" />
+      <Breakpoint file="/Users/Wihlborg/Documents/GitHub/LearningC-/Projects/TestOfArrays/TestOfArrays/Program.cs" relfile="TestOfArrays/Program.cs" line="17" column="17" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

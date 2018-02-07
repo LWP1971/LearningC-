@@ -2273,17 +2273,21 @@
     ]
   },
   "packageFolders": {
-    "/Users/Wihlborg/.nuget/packages/": {}
+    "/Users/Wihlborg/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Wihlborg/Projects/Week_2_excercises_solution/Week_2_excercises_solution/Week_2_excercises_solution.csproj",
+      "projectUniqueName": "/Users/Wihlborg/Documents/GitHub/LearningC-/Projects/Week_2_excercises_solution/Week_2_excercises_solution/Week_2_excercises_solution.csproj",
       "projectName": "Week_2_excercises_solution",
-      "projectPath": "/Users/Wihlborg/Projects/Week_2_excercises_solution/Week_2_excercises_solution/Week_2_excercises_solution.csproj",
+      "projectPath": "/Users/Wihlborg/Documents/GitHub/LearningC-/Projects/Week_2_excercises_solution/Week_2_excercises_solution/Week_2_excercises_solution.csproj",
       "packagesPath": "/Users/Wihlborg/.nuget/packages/",
-      "outputPath": "/Users/Wihlborg/Projects/Week_2_excercises_solution/Week_2_excercises_solution/obj",
+      "outputPath": "/Users/Wihlborg/Documents/GitHub/LearningC-/Projects/Week_2_excercises_solution/Week_2_excercises_solution/obj",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "/Users/Wihlborg/.config/NuGet/NuGet.Config"
       ],

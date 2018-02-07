@@ -2279,11 +2279,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Wihlborg/Projects/abc/abc/abc.csproj",
+      "projectUniqueName": "/Users/Wihlborg/Documents/GitHub/LearningC-/Projects/abc/abc/abc.csproj",
       "projectName": "abc",
-      "projectPath": "/Users/Wihlborg/Projects/abc/abc/abc.csproj",
+      "projectPath": "/Users/Wihlborg/Documents/GitHub/LearningC-/Projects/abc/abc/abc.csproj",
       "packagesPath": "/Users/Wihlborg/.nuget/packages/",
-      "outputPath": "/Users/Wihlborg/Projects/abc/abc/obj",
+      "outputPath": "/Users/Wihlborg/Documents/GitHub/LearningC-/Projects/abc/abc/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

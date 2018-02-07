@@ -9,3 +9,14 @@
 /Users/Wihlborg/Projects/abc/abc/obj/Debug/netcoreapp2.0/abc.AssemblyInfo.cs
 /Users/Wihlborg/Projects/abc/abc/obj/Debug/netcoreapp2.0/abc.dll
 /Users/Wihlborg/Projects/abc/abc/obj/Debug/netcoreapp2.0/abc.pdb
+/Users/Wihlborg/Documents/GitHub/LearningC-/Projects/abc/abc/obj/Debug/netcoreapp2.0/abc.csprojResolveAssemblyReference.cache
+/Users/Wihlborg/Documents/GitHub/LearningC-/Projects/abc/abc/obj/Debug/netcoreapp2.0/abc.csproj.CoreCompileInputs.cache
+/Users/Wihlborg/Documents/GitHub/LearningC-/Projects/abc/abc/obj/Debug/netcoreapp2.0/abc.AssemblyInfoInputs.cache
+/Users/Wihlborg/Documents/GitHub/LearningC-/Projects/abc/abc/obj/Debug/netcoreapp2.0/abc.AssemblyInfo.cs
+/Users/Wihlborg/Documents/GitHub/LearningC-/Projects/abc/abc/obj/Debug/netcoreapp2.0/abc.dll
+/Users/Wihlborg/Documents/GitHub/LearningC-/Projects/abc/abc/obj/Debug/netcoreapp2.0/abc.pdb
+/Users/Wihlborg/Documents/GitHub/LearningC-/Projects/abc/abc/bin/Debug/netcoreapp2.0/abc.deps.json
+/Users/Wihlborg/Documents/GitHub/LearningC-/Projects/abc/abc/bin/Debug/netcoreapp2.0/abc.runtimeconfig.json
+/Users/Wihlborg/Documents/GitHub/LearningC-/Projects/abc/abc/bin/Debug/netcoreapp2.0/abc.runtimeconfig.dev.json
+/Users/Wihlborg/Documents/GitHub/LearningC-/Projects/abc/abc/bin/Debug/netcoreapp2.0/abc.dll
+/Users/Wihlborg/Documents/GitHub/LearningC-/Projects/abc/abc/bin/Debug/netcoreapp2.0/abc.pdb
