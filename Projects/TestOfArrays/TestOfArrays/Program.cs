@@ -1,25 +1,28 @@
 ﻿using System;
 
+
 namespace TestOfArrays
 {
     class Program
     {
         static void Main(string[] args)
         {
-            var arrays = new Arrays();
-            var gotTheRandom = arrays.SelectName();
-
             var playingCard = new PlayingCard();
+            var deckOfCards = new DeckOfCards();
 
-            //playingCard.MakeACard();
+            bool continueProgram = false;
 
-            Console.WriteLine($"Nummer {arrays.firstArray[gotTheRandom]} på listen over navne hedder {arrays.secondArray[gotTheRandom]}");
+            while (!continueProgram)
+            {
+                Console.WriteLine(playingCard.MakeACard());
 
 
-            Console.ReadKey();
 
-            //);
-            //Console.ReadKey();
+                //var deckOfCards = new DeckOfCards(playingCard);
+
+                Console.ReadKey();
+                Console.Clear();
+            }
         }
     }
 }

@@ -1,13 +1,16 @@
 ﻿<Properties StartupConfiguration="{929C37BD-C524-4EF2-88ED-827F13B69D5C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TestOfArrays/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestOfArrays/PlayingCard.cs">
     <Files>
-      <File FileName="TestOfArrays/Program.cs" Line="11" Column="13" />
-      <File FileName="TestOfArrays/Arrays.cs" Line="21" Column="1" />
+      <File FileName="TestOfArrays/Program.cs" Line="13" Column="37" />
+      <File FileName="TestOfArrays/PlayingCard.cs" Line="42" Column="13" />
+      <File FileName="TestOfArrays/DeckOfCards.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/Wihlborg/Documents/GitHub/LearningC-/Projects/TestOfArrays/TestOfArrays/Program.cs" relfile="TestOfArrays/Program.cs" line="12" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
