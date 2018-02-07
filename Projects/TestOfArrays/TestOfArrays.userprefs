@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{929C37BD-C524-4EF2-88ED-827F13B69D5C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TestOfArrays/Arrays.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestOfArrays/Program.cs">
     <Files>
-      <File FileName="TestOfArrays/Program.cs" Line="1" Column="1" />
-      <File FileName="TestOfArrays/Arrays.cs" Line="1" Column="1" />
+      <File FileName="TestOfArrays/Program.cs" Line="11" Column="13" />
+      <File FileName="TestOfArrays/Arrays.cs" Line="21" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
