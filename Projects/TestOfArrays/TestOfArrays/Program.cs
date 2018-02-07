@@ -9,7 +9,13 @@ namespace TestOfArrays
             var arrays = new Arrays();
             var gotTheRandom = arrays.SelectName();
 
+            var playingCard = new PlayingCard();
+
+            //playingCard.MakeACard();
+
             Console.WriteLine($"Nummer {arrays.firstArray[gotTheRandom]} på listen over navne hedder {arrays.secondArray[gotTheRandom]}");
+
+
             Console.ReadKey();
 
             //);
