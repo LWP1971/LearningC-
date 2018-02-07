@@ -1,0 +1,11 @@
+C:\Users\lwp.WICHA.002\Documents\GitHub\LearningC-\Projects\SomeArrays\SomeArrays\bin\Debug\netcoreapp2.0\SomeArrays.deps.json
+C:\Users\lwp.WICHA.002\Documents\GitHub\LearningC-\Projects\SomeArrays\SomeArrays\bin\Debug\netcoreapp2.0\SomeArrays.runtimeconfig.json
+C:\Users\lwp.WICHA.002\Documents\GitHub\LearningC-\Projects\SomeArrays\SomeArrays\bin\Debug\netcoreapp2.0\SomeArrays.runtimeconfig.dev.json
+C:\Users\lwp.WICHA.002\Documents\GitHub\LearningC-\Projects\SomeArrays\SomeArrays\bin\Debug\netcoreapp2.0\SomeArrays.dll
+C:\Users\lwp.WICHA.002\Documents\GitHub\LearningC-\Projects\SomeArrays\SomeArrays\bin\Debug\netcoreapp2.0\SomeArrays.pdb
+C:\Users\lwp.WICHA.002\Documents\GitHub\LearningC-\Projects\SomeArrays\SomeArrays\obj\Debug\netcoreapp2.0\SomeArrays.csprojResolveAssemblyReference.cache
+C:\Users\lwp.WICHA.002\Documents\GitHub\LearningC-\Projects\SomeArrays\SomeArrays\obj\Debug\netcoreapp2.0\SomeArrays.csproj.CoreCompileInputs.cache
+C:\Users\lwp.WICHA.002\Documents\GitHub\LearningC-\Projects\SomeArrays\SomeArrays\obj\Debug\netcoreapp2.0\SomeArrays.AssemblyInfoInputs.cache
+C:\Users\lwp.WICHA.002\Documents\GitHub\LearningC-\Projects\SomeArrays\SomeArrays\obj\Debug\netcoreapp2.0\SomeArrays.AssemblyInfo.cs
+C:\Users\lwp.WICHA.002\Documents\GitHub\LearningC-\Projects\SomeArrays\SomeArrays\obj\Debug\netcoreapp2.0\SomeArrays.dll
+C:\Users\lwp.WICHA.002\Documents\GitHub\LearningC-\Projects\SomeArrays\SomeArrays\obj\Debug\netcoreapp2.0\SomeArrays.pdb
