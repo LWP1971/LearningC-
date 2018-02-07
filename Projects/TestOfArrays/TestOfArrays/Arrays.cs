@@ -3,6 +3,8 @@ namespace TestOfArrays
 {
     public class Arrays
     {
+        public int GetTheRandom { get; set; }
+
         public int[] firstArray =
         {1,2,3,4,5};
 
