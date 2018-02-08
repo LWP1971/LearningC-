@@ -38,14 +38,14 @@ namespace TestOfArrays
             GiveCardColor();
         }
 
-        public void GiveCardColor()
+        public string GiveCardColor()
         {
             int cardColor = random.Next(0, 3);
             string[] cardColors = {"Clubs","Hearts","Spades","Diamonds"};
             CardColor = cardColors[cardColor];
             TheResultingCard = string.Join(CardNominations,CardColor);
-            var deckOfCards = new DeckOfCards();
-            deckOfCards.AddToMyDeck();
+            return TheResultingCard;
+            
         }
 }
 }

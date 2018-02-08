@@ -9,3 +9,14 @@
 /Users/Wihlborg/Documents/GitHub/LearningC-/Projects/TestOfArrays/TestOfArrays/obj/Debug/netcoreapp2.0/TestOfArrays.AssemblyInfo.cs
 /Users/Wihlborg/Documents/GitHub/LearningC-/Projects/TestOfArrays/TestOfArrays/obj/Debug/netcoreapp2.0/TestOfArrays.dll
 /Users/Wihlborg/Documents/GitHub/LearningC-/Projects/TestOfArrays/TestOfArrays/obj/Debug/netcoreapp2.0/TestOfArrays.pdb
+C:\Users\lwp.WICHA.002\Documents\GitHub\LearningC-\Projects\TestOfArrays\TestOfArrays\bin\Debug\netcoreapp2.0\TestOfArrays.deps.json
+C:\Users\lwp.WICHA.002\Documents\GitHub\LearningC-\Projects\TestOfArrays\TestOfArrays\bin\Debug\netcoreapp2.0\TestOfArrays.runtimeconfig.json
+C:\Users\lwp.WICHA.002\Documents\GitHub\LearningC-\Projects\TestOfArrays\TestOfArrays\bin\Debug\netcoreapp2.0\TestOfArrays.runtimeconfig.dev.json
+C:\Users\lwp.WICHA.002\Documents\GitHub\LearningC-\Projects\TestOfArrays\TestOfArrays\bin\Debug\netcoreapp2.0\TestOfArrays.dll
+C:\Users\lwp.WICHA.002\Documents\GitHub\LearningC-\Projects\TestOfArrays\TestOfArrays\bin\Debug\netcoreapp2.0\TestOfArrays.pdb
+C:\Users\lwp.WICHA.002\Documents\GitHub\LearningC-\Projects\TestOfArrays\TestOfArrays\obj\Debug\netcoreapp2.0\TestOfArrays.csprojResolveAssemblyReference.cache
+C:\Users\lwp.WICHA.002\Documents\GitHub\LearningC-\Projects\TestOfArrays\TestOfArrays\obj\Debug\netcoreapp2.0\TestOfArrays.csproj.CoreCompileInputs.cache
+C:\Users\lwp.WICHA.002\Documents\GitHub\LearningC-\Projects\TestOfArrays\TestOfArrays\obj\Debug\netcoreapp2.0\TestOfArrays.AssemblyInfoInputs.cache
+C:\Users\lwp.WICHA.002\Documents\GitHub\LearningC-\Projects\TestOfArrays\TestOfArrays\obj\Debug\netcoreapp2.0\TestOfArrays.AssemblyInfo.cs
+C:\Users\lwp.WICHA.002\Documents\GitHub\LearningC-\Projects\TestOfArrays\TestOfArrays\obj\Debug\netcoreapp2.0\TestOfArrays.dll
+C:\Users\lwp.WICHA.002\Documents\GitHub\LearningC-\Projects\TestOfArrays\TestOfArrays\obj\Debug\netcoreapp2.0\TestOfArrays.pdb

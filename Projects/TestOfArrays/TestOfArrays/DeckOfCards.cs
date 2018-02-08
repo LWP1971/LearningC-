@@ -6,17 +6,18 @@ namespace TestOfArrays
 {
     class DeckOfCards
     {
+
+
         public bool CardAlreadyInDeck { get; set; }
-        public Dictionary<int, string> TheDeckOfCards { get; set; }
 
-        PlayingCard playingcard = new PlayingCard();
+        public Dictionary<int, string> theDeckOfCards;
+        
 
-
-        public void AddToMyDeck ()
+        public void AddToMyDeck (string TheResultingCard)
         {
             for (int i = 0; i < 51; ++i)
             {
-                TheDeckOfCards.Add(i,playingcard.TheResultingCard);
+                theDeckOfCards.Add(i, TheResultingCard);
             }
         }
 
