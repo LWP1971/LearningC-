@@ -6,8 +6,6 @@ namespace TestOfArrays
 {
     class DeckOfCards
     {
-
-
         //public bool CardAlreadyInDeck { get; set; }
 
         public Dictionary<int, PlayingCard> theDeckOfCards = new Dictionary<int, PlayingCard>();
