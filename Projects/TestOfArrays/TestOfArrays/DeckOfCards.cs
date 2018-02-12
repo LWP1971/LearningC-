@@ -8,12 +8,12 @@ namespace TestOfArrays
     {
 
 
-        public bool CardAlreadyInDeck { get; set; }
+        //public bool CardAlreadyInDeck { get; set; }
 
-        public Dictionary<int, string> theDeckOfCards;
+        public Dictionary<int, string> theDeckOfCards = new Dictionary<int, string>();
         
 
-        public void AddToMyDeck (string TheResultingCard)
+        public string AddToMyDeck (string TheResultingCard)
         {
             for (int i = 0; i < 51; ++i)
             {

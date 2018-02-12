@@ -10,7 +10,7 @@ namespace TestOfArrays
         public int CardValue { get; set; }
         public string CardNominations { get; set; }
 
-        public string TheResultingCard { get; set; }
+        
 
         static Random random = new Random();
 
@@ -43,8 +43,8 @@ namespace TestOfArrays
             int cardColor = random.Next(0, 3);
             string[] cardColors = {"Clubs","Hearts","Spades","Diamonds"};
             CardColor = cardColors[cardColor];
-            TheResultingCard = string.Join(CardNominations,CardColor);
-            return TheResultingCard;
+            string theResultingCard = string.Join(CardNominations,CardColor);
+            return theResultingCard;
             
         }
 }

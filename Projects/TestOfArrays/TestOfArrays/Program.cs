@@ -17,7 +17,7 @@ namespace TestOfArrays
                 Console.WriteLine(playingCard.MakeACard());
 
                 deckOfCards = new DeckOfCards();
-                deckOfCards.AddToMyDeck(playingCard.TheResultingCard);
+                deckOfCards.AddToMyDeck(PlayingCard.theResultingCard);
 
                 Console.ReadKey();
                 Console.Clear();
