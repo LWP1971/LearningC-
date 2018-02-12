@@ -10,14 +10,24 @@ namespace TestOfArrays
 
         //public bool CardAlreadyInDeck { get; set; }
 
-        public Dictionary<int, string> theDeckOfCards = new Dictionary<int, string>();
+        public Dictionary<int, PlayingCard> theDeckOfCards = new Dictionary<int, PlayingCard>();
         
 
-        public string AddToMyDeck (string TheResultingCard)
+        public void AddToMyDeck(PlayingCard TheResultingCard)
         {
             for (int i = 0; i < 51; ++i)
             {
                 theDeckOfCards.Add(i, TheResultingCard);
+            }
+        }
+
+        public void Populate()
+        {
+            for (int i = 0; i < 51; ++i)
+            {
+                var playingCard = new PlayingCard();
+                playingCard.MakeACard();
+                theDeckOfCards.Add(i, playingCard);
             }
         }
 

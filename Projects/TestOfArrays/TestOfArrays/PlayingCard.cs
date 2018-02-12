@@ -44,6 +44,7 @@ namespace TestOfArrays
             string[] cardColors = {"Clubs","Hearts","Spades","Diamonds"};
             CardColor = cardColors[cardColor];
             string theResultingCard = string.Join(CardNominations,CardColor);
+
             return theResultingCard;
             
         }
